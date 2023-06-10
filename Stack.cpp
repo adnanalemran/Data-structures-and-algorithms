@@ -1,7 +1,4 @@
-/*
- * Author: Samayun Chowdhury
- * Source Code: https://github.com/samayun/data-structures-and-algorithms/blob/master/Stack.cpp
- */
+
 
 #include <iostream>
 

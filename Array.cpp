@@ -1,8 +1,4 @@
 
-// Author: Samayun Chowdhury
-// Source Code: https://github.com/samayun/data-structures-and-algorithms/blob/master/Array.cpp
-
-
 #include <iostream>
 
 using namespace std;
